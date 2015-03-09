@@ -47,6 +47,8 @@ Temporary Items
 templates_c/
 files/standard/
 include/standalone/
+install.php
+update.php
 
 
 
