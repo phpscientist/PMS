@@ -16,7 +16,7 @@ define("CL_PUBDATE", "1407880800");
 
 
 // uncomment next line for debugging
-// error_reporting(E_ALL || E_STRICT);
+error_reporting(E_ALL || E_STRICT);
 
 // include config file , pagination and global functions
 require(CL_ROOT . "/config/" . CL_CONFIG . "/config.php");
@@ -113,7 +113,7 @@ $template->config_dir = CL_ROOT . "/language/$locale/";
 
 //Smarty 3 seems to have a problem with re-compiling the config if the user config is different than the system config.
 //this forces a compile of the config.
-$template->compileAllConfig('.config',true);
+//$template->compileAllConfig('.config',true);
 
 
 // read language file into PHP array
