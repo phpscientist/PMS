@@ -31,7 +31,7 @@ $redbg = "#e7dcda";
 
 
 
-$projectsMain = "#96B4DE";
+$projectsMain = "#000000";
 $projectsB = "#CCCCCC"; // Borders in Forms
 $projectsC = "#7F97BC"; // Buttons Hover
 //Blockhead
@@ -42,7 +42,7 @@ $projectsColorA = "url(../images/tables-tasks-bg-a.png)"; // ColorMix Rows
 $projectsColorB = "url(../images/tables-tasks-bg-b.png)"; // ColorMix Rows
 $projectsColorC = "url(../images/tables-projects-bg-c.png)"; // Files in Messages
 
-$tasksMain = "#96B4DE";
+$tasksMain = "#000000";
 $tasksB = "#4566A4"; // Borders in Forms
 $tasksC = "#7F97BC"; // Buttons Hover
 $tasksBlockhead = "url(../images/bg_table.png)";
@@ -52,7 +52,7 @@ $tasksColorA = "url(../images/tables-tasks-bg-a.png)"; // ColorMix Rows
 $tasksColorB = "url(../images/tables-tasks-bg-b.png)"; // ColorMix Rows
 $tasksColorC = "url(../images/tables-tasks-bg-c.png)"; // Files in Messages
 
-$msgsMain = "#96B4DE";
+$msgsMain = "#000000";
 $msgsB = "#a3a19e"; // Borders in Forms
 $msgsC = "#7F97BC"; // Buttons Hover
 $msgsBlockhead = "url(../images/bg_table.png)";
@@ -62,7 +62,7 @@ $msgsColorA = "url(../images/tables-tasks-bg-a.png)"; // ColorMix Rows
 $msgsColorB = "url(../images/tables-tasks-bg-b.png)"; // ColorMix Rows
 $msgsColorC = "url(../images/tables-msgs-bg-c.png)"; // Files in Messages
 
-$userMain = "#96B4DE";
+$userMain = "#000000";
 $userB = "#bbcbbb"; // Borders in Forms
 $userC = "#7F97BC"; // Buttons Hover
 $userBlockhead = "url(../images/bg_table.png)";
@@ -72,7 +72,7 @@ $userColorA = "url(../images/tables-user-bg-a.png)"; // ColorMix Rows
 $userColorB = "url(../images/tables-user-bg-b.png)"; // ColorMix Rows
 $userColorC = "url(../images/tables-user-bg-c.png)"; // Files in Messages
 
-$milesMain = "#96B4DE";
+$milesMain = "#000000";
 $milesB = "#b49591"; // Borders in Forms
 $milesC = "#7F97BC"; // Buttons Hover
 $milesBlockhead = "url(../images/bg_table.png)";
@@ -82,7 +82,7 @@ $milesColorA = "url(../images/tables-miles-bg-a.png)"; // ColorMix Rows
 $milesColorB = "url(../images/tables-miles-bg-b.png)"; // ColorMix Rows
 $milesColorC = "url(../images/tables-miles-bg-c.png)"; // Files in Messages
 
-$neutralMain = "#96B4DE";
+$neutralMain = "#000000";
 $neutralB = "#a9a7a8"; // Borders in Forms
 $neutralC = "#7F97BC"; // Buttons Hover
 $neutralBlockhead = "url(../images/bg_table.png)";
@@ -92,7 +92,7 @@ $neutralColorA = "url(../images/tables-tasks-bg-a.png)"; // ColorMix Rows
 $neutralColorB = "url(../images/tables-neutral-bg-b.png)"; // ColorMix Rows
 $neutralColorC = "url(../images/tables-neutral-bg-c.png)"; // Files in Messages
 
-$timetrackMain = "#96B4DE";
+$timetrackMain = "#000000";
 $timetrackB = "#bc9f8f"; // Borders in Forms
 $timetrackC = "#7F97BC"; // Buttons Hover
 $timetrackBlockhead = "url(../images/bg_table.png)";
@@ -102,7 +102,7 @@ $timetrackColorA = "url(../images/tables-tasks-bg-a.png)"; // ColorMix Rows
 $timetrackColorB = "url(../images/tables-tasks-bg-B.png)"; // ColorMix Rows
 $timetrackColorC = "url(../images/tables-timetracking-bg-c.png)"; // Files in Messages
 
-$filesMain = "#96B4DE";
+$filesMain = "#000000";
 $filesB = "#9195a2"; // Borders in Forms
 $filesC = "#7F97BC"; // Buttons Hover
 $filesBlockhead = "url(../images/bg_table.png)";
@@ -213,7 +213,7 @@ td.message ul {
 
 .login-in, .login-alert {
 	width: 100%;
-	background: url(../images/color-a.png) repeat 0 0;
+	/*background: url(../images/color-a.png) repeat 0 0;*/
 	text-align: center;
 	padding: 20px 0 20px 0;
 	/*
@@ -264,7 +264,7 @@ td.message ul {
 #header-wrapper {
 	width:100%;
 	height: 70px;
-	background: url(../images/color-a.png) repeat 0 0;
+	/*background: url(../images/color-a.png) repeat 0 0;*/
 }
 
 #header {
