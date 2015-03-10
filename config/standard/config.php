@@ -1,6 +1,10 @@
 <?php
-$db_host = "";
-$db_name = "";
-$db_user = "";
-$db_pass = "";
+$db_host = 'localhost';
+
+$db_name = 'pms';
+
+$db_user = 'root';
+
+$db_pass = '06mcb1053';
+
 ?>
